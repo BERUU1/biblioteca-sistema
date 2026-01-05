@@ -66,7 +66,7 @@ git clone https://github.com/BERUU1/biblioteca-sistema.git
 ### Exemplo de Código
 ![Código Exemplo](codigo-exemplo.png)
 
-![Código Exemplo]()
+![Código Exemplo](codigo2-exemplo.png)
 
 ### Testes Executados
 ![Testes no Console](testes-console.png)
