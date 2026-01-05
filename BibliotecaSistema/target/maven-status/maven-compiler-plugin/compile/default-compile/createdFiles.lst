@@ -1,0 +1,12 @@
+model\Emprestimo.class
+Main.class
+service\UsuarioService.class
+service\EmprestimoService.class
+repository\EmprestimoRepository.class
+exception\RecursoNaoEncontradoException.class
+exception\ValidacaoException.class
+model\Livro.class
+repository\UsuarioRepository.class
+model\Usuario.class
+repository\LivroRepository.class
+service\LivroService.class
