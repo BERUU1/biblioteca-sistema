@@ -58,6 +58,17 @@ git clone https://github.com/BERUU1/biblioteca-sistema.git
 - **Service Layer Pattern** - Centralização da lógica de negócio
 - **DTO Pattern** - Transferência de dados entre camadas
 
+## 📸 Capturas de Tela
+
+### Estrutura do Projeto
+![Estrutura do Projeto](estrutura-projeto.png)
+
+### Exemplo de Código
+![Código Exemplo](codigo-exemplo.png)
+
+### Testes Executados
+![Testes no Console](testes-console.png)
+
 ## 👨‍💻 Autor
 
 **Raul Vitor Leal Barros**  
